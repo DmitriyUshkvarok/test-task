@@ -1,0 +1,7 @@
+Mirror in progress since Sun, 29 Sep 2024 17:29:50 .. please wait!
+httrack https://www.rainews.it/ -O ~/Desktop/rainews "+*.jpg +*.gif +*.png +*.css +*.js" -v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=86360
+UID=501
+GID=501
+START=1727620190
